@@ -17,6 +17,7 @@ This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me
 start - Start Bot
 help - How to use this bot?
 rename - Rename file
+metadata - To Configure Your Metadata Tags
 video_info - Change video metadata
 set_thumbnail - Set Custom Thumbnail
 show_thumbnail - Show Custom Thumbnail
